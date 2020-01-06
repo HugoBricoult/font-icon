@@ -42,7 +42,7 @@ La doc de bootstrap se trouve [ici](https://getbootstrap.com/)
 Police de text  
 Le link est à coller dans le head du html et se trouve sur ce [site](https://fonts.google.com/)
 
-###Normalize
+### Normalize
 CSS permettant de reset sa page web.  
 A copier dans le header (avant les autres .css)
 ```html
