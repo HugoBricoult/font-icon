@@ -41,3 +41,10 @@ La doc de bootstrap se trouve [ici](https://getbootstrap.com/)
 ### Google font
 Police de text  
 Le link est à coller dans le head du html et se trouve sur ce [site](https://fonts.google.com/)
+
+###Normalize
+CSS permettant de reset sa page web.  
+A copier dans le header (avant les autres .css)
+```html
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css" integrity="sha256-WAgYcAck1C1/zEl5sBl5cfyhxtLgKGdpI3oKyJffVRI=" crossorigin="anonymous" />
+```
