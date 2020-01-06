@@ -40,4 +40,4 @@ La doc de bootstrap se trouve [ici](https://getbootstrap.com/)
 
 ### Google font
 Police de text  
-Les link est à coller dans le head du html et se trouve sur ce [site](https://fonts.google.com/)
+Le link est à coller dans le head du html et se trouve sur ce [site](https://fonts.google.com/)
