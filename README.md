@@ -1,4 +1,4 @@
-# :point_left: Font-icon :point_right:
+# :point_left: Font-icon :point_right: :100: REAL G's
 
 ## Contenu
 Ce repo ne possède qu'un readme destiné à lister toutes les sources d'icônes et de font
