@@ -1,4 +1,4 @@
-# font-icon :rage1:
+# :point_left: font-icon :point_right:
 
 ##Contenu
 Ce repo ne possède qu'un readme destiné à lister toutes les sources d'icônes et de font
